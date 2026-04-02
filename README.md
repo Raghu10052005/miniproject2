@@ -1,8 +1,3 @@
-diff --git a/README.md b/README.md
-index 4d1984a7b4b1f38aa0fe0b262a10783526d7ff3c..f2bee748d22a9769bdcf0a87660ee38c5276a34f 100644
---- a/README.md
-+++ b/README.md
-@@ -1 +1,140 @@
 -# miniproject2
 \ No newline at end of file
 +# Autonomous Flood-Response Boat (ROS 2 + Gazebo)
