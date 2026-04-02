@@ -1,0 +1,8 @@
+mission_node:
+  ros__parameters:
+    control_rate_hz: 5.0
+    arrival_tolerance_m: 2.0
+    max_linear_speed: 1.2
+    max_angular_speed: 0.8
+    obstacle_threshold_m: 4.0
+    avoid_turn_speed: 0.4

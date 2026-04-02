@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>flood_boat_sim</name>
+  <version>0.0.1</version>
+  <description>Starter ROS 2 package for autonomous flood-response boat simulation.</description>
+  <maintainer email="you@example.com">project-owner</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>launch</depend>
+  <depend>launch_ros</depend>
+  <exec_depend>ament_index_python</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
